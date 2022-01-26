@@ -1,7 +1,7 @@
 # Advanced_App
 ## Prerequisites:
-- (https://git-scm.com/)[git]
-- (Android Studio)[https://developer.android.com/studio]
+- [git](https://git-scm.com/)
+- [Android Studio](https://developer.android.com/studio)
 ## Installation Process
 - To download, open terminal/command prompt and run 
 `git clone https://github.com/sandipa14/Advanced_App.git`
